@@ -248,8 +248,3 @@ The following Linux system APIs are recommended or required for implementation:
 │   └── current_daemon_list
 └── ...
 ```
-
----
-
-Would you like me to include a short “How to Build and Run” section (Makefile example + run instructions) at the end of the README?  
-It can make the README look even more like a real GitHub project.
